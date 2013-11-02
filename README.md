@@ -5,3 +5,6 @@ Cakephp pagination helper to remove action name from url and make them seo frien
 
 Description:
 http://hashmode.com/remove-action-name-from-url-cakephp-pagination/34
+
+Online Demo:
+http://cakepagination.hashmode.com/posts
