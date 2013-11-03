@@ -8,3 +8,7 @@ http://hashmode.com/remove-action-name-from-url-cakephp-pagination/34
 
 Online Demo:
 http://cakepagination.hashmode.com/posts
+
+## License
+
+Released under the MIT license
